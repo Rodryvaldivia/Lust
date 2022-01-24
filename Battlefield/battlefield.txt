@@ -1,0 +1,6 @@
+{
+    "nombre" : "Battlefield 2042",
+    "info" : "Battlefield™ 2042 es un juego de disparos en primera persona que marca el regreso de la icónica guerra total de la franquicia. Adáptate y vence en un mundo del futuro cercano transformado por el desorden. Forma un escuadrón y lleva un arsenal innovador a campos de batalla cambiantes con capacidad para 128 jugadores en una escala sin precedentes con destrucción épica.",
+    "fecha" : "Fecha de lanzamiento: <b>19 NOV 2021</b>",
+    "precio" : "$59.99"
+}
