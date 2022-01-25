@@ -1,6 +1,6 @@
 {
     "nombre" : "Horizon Zero Dawn"
-    "info" : "Vive la misión legendaria de Aloy para revelar los secretos de una futura Tierra dominada por máquinas. ¡Usa ataques devastadores contra tus presas y explora un majestuoso mundo abierto en este galardonado RPG de acción!<br>"
+    "info" : "Vive la misión legendaria de Aloy para revelar los secretos de una futura Tierra dominada por máquinas. ¡Usa ataques devastadores contra tus presas y explora un majestuoso mundo abierto en este galardonado RPG de acción!<br>",
     "precio" : "Price: $29.99"
     "fecha" : "Fecha de lanzamiento: 28 FEB 2017"
 }

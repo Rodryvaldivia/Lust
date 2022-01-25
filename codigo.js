@@ -12,10 +12,10 @@ const returnHere = ()=> {
                 setTimeout(() => {
                     textChange.innerHTML = resultado [0];
                     return returnHere();
-                }, 2500);
-            },2500);
-        },2500);
-    },2500);
+                }, 2200);
+            },2200);
+        },2200);
+    },2200);
 }
 
 returnHere();

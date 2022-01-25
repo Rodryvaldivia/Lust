@@ -17,3 +17,20 @@ peticion.addEventListener("load",()=>{
 
 peticion.open("GET","battlefield.txt");
 peticion.send();
+
+let info = new XMLHttpRequest();
+
+info.addEventListener("click",()=>{
+    let respuesta;
+    if(peticion.status == 200 || peticion.status == 201) {
+        respuesta = peticion.response;
+    }
+})
+
+info.open("POST","../carrito/battlefield.txt");
+info.setRequestHeader("Content-type","application/json;charset=UTF8");
+info.send(JSON.stringify({
+    "name" : "Battlefield 2042",
+    "price" : "59"
+}));
+

@@ -1,6 +1,6 @@
 {
-    "nombre" : "God Of War"
-    "info" : "Habiendo consumado su venganza contra los dioses el Olimpo años atrás, Kratos ahora vive como un hombre en el reino de los dioses y los monstruos nórdicos. En este hostil e inhóspito mundo, debe pelear por sobrevivir... y enseñarle a su hijo a hacer lo mismo..<br>"
-    "precio" : "Price: $59.99"
+    "nombre" : "God Of War",
+    "info" : "Habiendo consumado su venganza contra los dioses el Olimpo años atrás, Kratos ahora vive como un hombre en el reino de los dioses y los monstruos nórdicos. En este hostil e inhóspito mundo, debe pelear por sobrevivir... y enseñarle a su hijo a hacer lo mismo..<br>",
+    "precio" : "Price: $59.99",
     "fecha" : "Fecha de lanzamiento: 20 ABR 2018"
 }

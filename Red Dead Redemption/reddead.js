@@ -17,3 +17,7 @@ peticion.addEventListener("load",()=>{
 
 peticion.open("GET","reddead.txt");
 peticion.send();
+
+const objeto = `{"nombre":"Red Dead Redemption 2","precio":"59.99"}`
+const jsonObjeto = JSON.stringify(objeto)
+console.log(objeto)
