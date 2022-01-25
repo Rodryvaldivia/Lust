@@ -15,5 +15,5 @@ peticion.addEventListener("load",()=>{
     document.querySelector(".preciogame").innerHTML = JSON.parse(respuesta).precio;
 });
 
-peticion.open("GET","halo.txt");
+peticion.open("GET","forza.txt");
 peticion.send();

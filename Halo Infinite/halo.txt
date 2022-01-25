@@ -1,0 +1,6 @@
+{
+    "nombre" : "Halo Infinite"
+    "info" : "Cuando toda esperanza se pierde y el destino de la humanidad pende de un hilo, el Jefe Maestro está listo para enfrentarse al enemigo más despiadado que jamás haya conocido.<br>"
+    "precio" : "Price: $39.99"
+    "fecha" : "Fecha de lanzamiento: 15 NOV 2021"
+}

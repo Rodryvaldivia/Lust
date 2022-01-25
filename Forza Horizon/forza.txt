@@ -1,6 +1,6 @@
 {
     "nombre" : "Forza Horizon 5",
-    "info" : "¡Tu Ultimate Horizon Adventure te espera! Explora los paisajes vibrantes y de mundo abierto de México conduciendo cientos de los mejores autos del mundo en un sinfín de diversión. ¡Comienza tu Horizon Adventure hoy y añade cosas a tu lista de deseos!",
-    "fecha" : "Fecha de lanzamiento: <b>9 NOV 2021</b>"
-    "precio" : "$49.99"
+    "info" : "¡Tu Ultimate Horizon Adventure te espera! Explora los paisajes vibrantes y de mundo abierto de México conduciendo cientos de los mejores autos del mundo en un sinfín de diversión. ¡Comienza tu Horizon Adventure hoy y añade cosas a tu lista de deseos!<br>",
+    "fecha" : "Fecha de lanzamiento: <b>9 NOV 2021</b>",
+    "precio" : "Price: $49.99"
 }

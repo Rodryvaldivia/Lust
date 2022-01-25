@@ -1,0 +1,6 @@
+{
+    "nombre" : "Call Of Duty: Vanguard"
+    "info" : "Call of Duty: Vanguard no es solo una historia sobre la Segunda Guerra Mundial, sino sobre cómo podría haber sido destruido el mundo tal y como lo conocemos tras el conflicto. Gracias a varios de sus juegos, el legado de Call of Duty está muy arraigado en la Segunda Guerra Mundial. Sledgehammer Games, responsable principal de Vanguard, mostró su propia visión sobre la guerra con Call of Duty®: WWII en 2017.<br>"
+    "precio" : "Price: $59.99"
+    "fecha" : "Fecha de lanzamiento: 5 NOV 2021"
+}

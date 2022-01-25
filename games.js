@@ -25,7 +25,7 @@ peticion.addEventListener("load",()=>{
     } console.log(respuesta)
 })
 
-peticion.open("GET","hola.txt");
+peticion.open("GET","");
 peticion.send();
 
 let marketButton = document.querySelector(".marketbutton");

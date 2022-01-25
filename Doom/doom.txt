@@ -1,0 +1,6 @@
+{
+    "nombre" : "Doom"
+    "info" : "Ahora incluye los tres paquetes DLC premium (Unto the Evil, Hell Followed y Bloodfall), mapas, modos y armas, así como todas las actualizaciones de funciones, incluido el modo Arcade, el modo Foto y la última actualización 6.66, que trae más mejoras multijugador. así como renueva la progresión multijugador.<br>"
+    "precio" : "Price: $9.99"
+    "fecha" : "Fecha de lanzamiento: 13 MAY 2016"
+}

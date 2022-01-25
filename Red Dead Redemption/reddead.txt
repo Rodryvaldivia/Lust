@@ -1,0 +1,6 @@
+{
+    "nombre" : "Red Dead Redemption 2"
+    "info" : "Con más de 175 premios al Juego del año y más de 250 valoraciones perfectas, Red Dead Redemption 2 es la épica historia de Arthur Morgan y la banda de Van der Linde, que huyen por Estados Unidos en los albores del siglo XX. También incluye acceso al mundo multijugador compartido de Red Dead Online.<br>"
+    "precio" : "Price: $59.99"
+    "fecha" : "Fecha de lanzamiento: 26 OCT 2018"
+}
